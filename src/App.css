@@ -1,0 +1,374 @@
+.app {
+  text-align: center;
+  
+}
+
+.app_dark {
+  text-align: center;
+  background-color: #2b2929;
+}
+
+.header {
+  border-bottom: solid 2px crimson;
+  height: 50px;
+  background-color: #cb4444;
+  display: flex;
+  
+}
+
+.themeButton {
+  margin-left: 400px;
+  margin-top: 6px;
+  height: 35px;
+  background-color: black;
+  color: white;
+}
+
+.logo {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 0px;
+  padding-top: 8px;
+}
+
+.stepOne {
+  border-bottom: dotted 2px crimson;
+  padding-bottom: 14px;
+  padding-top: 12px;
+  
+}
+
+.stepOne_dark {
+  border-bottom: dotted 3px black;
+  padding-bottom: 14px;
+  padding-top: 12px;
+}
+
+.steptwo {
+  border-bottom: dotted 2px crimson;
+  height: 150px;
+  
+}
+
+.steptwo_dark {
+  border-bottom: dotted 3px black;
+  height: 150px;
+}
+
+.stepthree {
+  border-bottom: dotted 2px crimson;
+  height: 150px
+}
+
+.stepthree_dark {
+  border-bottom: dotted 3px black;
+  height: 150px
+}
+
+.inputbox {
+  min-width: 230px;
+  height: 25px;
+}
+
+.inputbox_dark[type="text"] {
+  min-width: 230px;
+  height: 25px;
+  background: darkgray;
+  color: black;
+}
+.searchButton {
+  height: 35px;
+  width: 100px;
+  margin-left: 10px;
+  background-color: #cb4444;
+  color: white;
+  border: solid 2px black;
+}
+
+.searchButton_dark {
+  height: 35px;
+  width: 100px;
+  margin-left: 10px;
+  background-color: #cb4444;
+  color: black;
+  border: solid 2px black;
+}
+
+.recipeView {
+  margin-top: 5%;
+  text-align: center;
+  color: #333332;
+}
+
+.recipeView_dark {
+  padding-top: 10px;
+  text-align: center;
+  color: black;
+  background-color: #2b2929;
+  padding-bottom: 100vh;
+  
+  
+}
+.recipeCard1 {
+  border: 2px solid black;
+  max-width: 400px;
+  text-align: center;
+  margin: auto;
+  background-color: #ffc281;
+  min-height: 100px;
+  margin-bottom: 35px;
+  margin-top: 40px;
+  color: black;
+}
+
+.recipeCard1_dark {
+  border: 2px solid black;
+  max-width: 400px;
+  text-align: center;
+  margin: auto;
+  background-color: crimson;
+  min-height: 100px;
+  margin-bottom: 35px;
+  margin-top: 40px;
+  color: black;
+}
+
+.recipeText {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.instructionButton {
+  margin-bottom: 5px;
+  height: 50px;
+  width: 150px;
+  background-color: black;
+  color: white;
+}
+
+.instructionview_dark {
+  background-color: #2b2929;
+  color: darkgray;
+  padding-top: 10px;
+  padding-bottom: 100vh;
+}
+
+.refreshButton {
+  height: 40px;
+  width: 125px;
+  margin-top: 8px;
+}
+
+.refreshButton_dark {
+  height: 40px;
+  width: 125px;
+  margin-top: 8px;
+  background-color: crimson;
+  color: black;
+}
+
+.selectors {
+  margin-top: 20px;
+}
+
+.dropdown {
+  height: 30px;
+  width: 160px;
+  margin-right: 4px;
+}
+
+.dropdown_dark {
+  height: 30px;
+  width: 160px;
+  margin-right: 4px;
+  background: darkgray;
+}
+
+.excluded {
+  height: 25px;
+  width: 280px;
+  margin-top: 2px;
+}
+
+.excluded_dark {
+  height: 25px;
+  width: 280px;
+  margin-top: 2px;
+  background: darkgray;
+}
+
+.movieCard {
+  border: solid 3px black;
+  margin: 2px;
+  text-align: center;
+  background-color: #d16868;
+  
+  
+}
+
+.movieInfo {
+  text-align: left;
+  margin-left: 50px;
+  font-size: 16px;
+  font-family: serif;
+}
+
+.movieButtons {
+  padding-left: 20px;
+  padding-top: 20px;
+  background-color: black;
+  display: flex;
+  
+
+}
+
+.logoMovie {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 0px;
+  padding-top: 8px;
+  color: #d16868;
+}
+
+.movieToHome {
+  height: 35px;
+  width: 90px;
+  margin-right: 6px;
+  font-size: 15px;
+  background-color: #cb4444;
+  color: white;
+  border: solid 2px white;
+  margin-bottom: 20px;
+}
+
+.movieToHome_dark {
+  height: 35px;
+  width: 90px;
+  margin-right: 6px;
+  font-size: 15px;
+  background-color: #cb4444;
+  color: black;
+  border: solid 2px black;
+  margin-bottom: 20px;
+}
+
+.movieNewSet {
+  height: 35px;
+  width: 140px;
+  margin-left: 6px;
+  font-size: 15px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  background-color: #cb4444;
+  color: white;
+  border: solid 2px white;
+}
+
+.movieNewSet_dark {
+  height: 35px;
+  width: 140px;
+  margin-left: 6px;
+  font-size: 15px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  background-color: #cb4444;
+  color: black;
+  border: solid 2px black;
+}
+
+.drinkButtons {
+  margin: 10px;
+}
+
+.drinkNew {
+  margin-top: 20px;
+  margin-right: 5px;
+  height: 40px;
+  width: 120px;
+}
+
+.drinkNew_dark {
+  margin-top: 20px;
+  margin-right: 5px;
+  height: 40px;
+  width: 120px;
+  background-color: crimson;
+  color: black;
+  border: solid 2px black;
+}
+
+.drinkHome {
+  margin-top: 20px;
+  height: 40px;
+  width: 120px;
+  margin-left: 5px;
+}
+
+.drinkHome_dark {
+  margin-top: 20px;
+  height: 40px;
+  width: 120px;
+  margin-left: 5px;
+  background-color: crimson;
+  color: black;
+  border: solid 2px black;
+}
+
+.drinkView {
+  margin-left: 60px;
+}
+
+.drinkView_dark {
+  padding-top: 10px;
+  padding-left: 60px;
+  padding-bottom: 100vh;
+  background-color: #2b2929;
+}
+
+.drinkTitle {
+  color: crimson;
+  font-size: 28px;
+  border-bottom: double 1px crimson;
+}
+
+.drinkrecipe {
+  margin-left: 40px;
+}
+
+.drinkrecipe_dark {
+  color: darkgray;
+  margin-left: 40px;
+}
+
+.drinkIngredients {
+  margin-top: 30px;
+}
+
+.drinkIngredients_dark {
+  margin-top: 30px;
+  color: darkgray;
+}
+
+.cocktail_dark {
+  color: darkgray;
+}
+
+.movieButton {
+  height: 40px;
+  width: 125px;
+  background-color: #cb4444;
+  color: white;
+  border: solid 2px black;
+}
+
+.movieButton_dark {
+  height: 40px;
+  width: 125px;
+  background-color: #cb4444;
+  color: black;
+  border: solid 2px black;
+}
+
+.movieview_dark {
+  background-color: #2b2929;
+}
